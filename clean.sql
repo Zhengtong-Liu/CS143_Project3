@@ -1,0 +1,1 @@
+drop tables Awardee, People, Organization, Institution, Prize;

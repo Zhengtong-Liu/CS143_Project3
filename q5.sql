@@ -1,0 +1,1 @@
+select count(distinct awardYear) as num_of_year from Organization O, Prize P where O.id = P.id;

@@ -1,0 +1,1 @@
+select familyName from People group by familyName having count(*) >= 5;

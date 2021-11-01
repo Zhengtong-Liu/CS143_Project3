@@ -1,0 +1,1 @@
+select count(distinct city, country) as num_of_locations from Institution where name = 'University of California';
