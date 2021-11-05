@@ -5,5 +5,5 @@
 #
 
 #node convert.js
-#python3 convert.py
+python3 convert.py
 #php convert.php
